@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Install Java SDK >= 1.7
+1. Install >= 1.7
 2. Print the version number to stdout
 
 ## Instructions
